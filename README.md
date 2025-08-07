@@ -1,6 +1,6 @@
-# Anemia Detection with Machine Learning
+# Anemia-Sense-Leveraging-Machine-Learning-For-Precise-Anemia-Recognitions
 ---
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/clang) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/maladeep/anemia-detection-with-machine-learning)  ![GitHub](https://img.shields.io/github/license/maladeep/anemia-detection-with-machine-learning)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/clang) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/maladeep/anemia-detection-with-machine-learning)
 ----
 # Overview
 This repo consist of python machine learning code for the detection of the anemi using the data from Kaggle, provided by the username Biswa Ranjan Rao, and the direct URL to the dataset is https://www.kaggle.com/datasets/biswaranjanrao/anemia-dataset.
